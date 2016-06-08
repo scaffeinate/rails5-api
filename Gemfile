@@ -52,3 +52,5 @@ group :production do
   gem 'pg'
   gem 'unicorn'
 end
+
+gem 'active_model_serializers', '~> 0.10.0'
